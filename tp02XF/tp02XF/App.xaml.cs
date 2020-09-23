@@ -9,8 +9,8 @@ namespace tp02XF
         public App()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage());
+            //Page_EstiloPadrão = new NavigationPage(new Page_EstiloPadrão());
         }
 
         protected override void OnStart()

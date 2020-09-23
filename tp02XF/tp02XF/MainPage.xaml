@@ -5,8 +5,8 @@
 
     <StackLayout>
         <Label Text="Style Resources" HorizontalOptions="Center" FontSize="Large" TextColor="Blue"/>
-            <Button Text="ESTILO PADRÃO"/>
-            <Button Text="ESTILO DINÂMICO"/>
+            <Button Text="ESTILO PADRÃO" Clicked="btnEstiloPadrão"/>
+            <Button Text="ESTILO DINÂMICO" Clicked="btnEstiloDinamico"/>
             <Button Text="ESTILO EVENT TRIGGRES"/>
             <Button Text="ESTILO GLOBAL"/>
         <Label Text="Passar parametro" HorizontalOptions="Center" FontSize="Large" TextColor="Blue"/>

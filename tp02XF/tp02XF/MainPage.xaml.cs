@@ -14,5 +14,15 @@ namespace tp02XF
         {
             InitializeComponent();
         }
+
+        async void btnEstiloPadrão(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Page_EstiloPadrão());
+        }
+
+        async void btnEstiloDinamico(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Page_EstiloDinamico());
+        }
     }
 }
