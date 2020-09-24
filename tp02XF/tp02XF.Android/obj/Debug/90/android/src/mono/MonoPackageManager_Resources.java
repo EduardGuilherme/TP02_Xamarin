@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "tp02XF.Android.dll" comes first in this list. */
 		"tp02XF.Android.dll",
 		"FormsViewGroup.dll",
+		"MVVMCoffee.dll",
 		"tp02XF.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",

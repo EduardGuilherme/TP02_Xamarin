@@ -52,6 +52,7 @@ C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\assets\Mono.Security.pdb
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\assets\mscorlib.dll
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\assets\MVVMCoffee.dll
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\assets\netstandard.dll
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb

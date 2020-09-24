@@ -7,14 +7,18 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
+
 namespace tp02XF
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Page_EstiloDinamico : ContentPage
     {
+       
         public Page_EstiloDinamico()
         {
             InitializeComponent();
+
         }
     }
 }

@@ -17,7 +17,7 @@ namespace tp02XF
 
         async void btnEstiloPadrão(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Page_EstiloPadrão());
+            await Navigation.PushAsync(new Page_EstiloPadrao());
         }
 
         async void btnEstiloDinamico(object sender, EventArgs e)
