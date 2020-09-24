@@ -14,3 +14,5 @@ C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\Xaml
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.dll
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\ref\tp02XF.dll
 C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\tp02XF.pdb
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_EstiloEventTriggers.xaml.g.cs
+C:\Users\Eduardo\source\repos\tp02XF\tp02XF\tp02XF\obj\Debug\netstandard2.0\Page_viewSimples.xaml.g.cs
