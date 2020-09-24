@@ -36,9 +36,9 @@ namespace tp02XF
         {
             var contato = new Contato
             {
-                Nome = "Eduardo Guilherme",
+                Nome = "Eduardo Guilherme e Matheus Gomes",
                 Idade = 24,
-                Profissao = "Programador Front-end",
+                Profissao = "Programador Front-end e Programador back-end",
                 Pais = "Brasil"
             };
             var detalhePage = new Page_viewSimples();
